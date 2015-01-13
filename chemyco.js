@@ -17,7 +17,7 @@ CheMyCo = (function (){
                 return t[0];
             };
         };
-        this.defaultUrl = "/bibliotecatelco/php/canguro/php/js/chemyco.js";
+        this.defaultUrl = "chemyco.js";
         this.url = url || this.defaultUrl;
         this.idCh = 'chemycoLayer',
         //s = document.getElementsByTagName("script"), i, myu;
